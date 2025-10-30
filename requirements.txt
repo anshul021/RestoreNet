@@ -1,0 +1,10 @@
+yt_dlp
+pandas
+librosa
+numpy
+torch
+torchaudio
+soundfile
+matplotlib
+mutagen
+soxr
